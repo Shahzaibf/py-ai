@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
