@@ -2,4 +2,4 @@
 
 Neural networks made from raw python
 
-Follwing the [nnfs.io](nnfs.io) course
+Follwing the [nnfs.io](https://nnfs.io) course
