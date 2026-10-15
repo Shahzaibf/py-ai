@@ -231,3 +231,7 @@ lib/
 lib64/
 share/
 pyvenv.cfg
+
+*._DS_Store
+*.DS_Store
+TensorFlow/cats-vs-dogs/data
