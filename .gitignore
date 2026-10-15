@@ -234,4 +234,6 @@ pyvenv.cfg
 
 *._DS_Store
 *.DS_Store
+.h5
+
 TensorFlow/cats-vs-dogs/data
